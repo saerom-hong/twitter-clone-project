@@ -8,10 +8,13 @@ This project is a simple twitter clone application created on React.
 - post maximum 120 words or upload images on Home page.
 - delete or edit their tweets.
 - update their user name and profile picture on Profile page.
-<br>
+<br />
 
 ## 📽 Project Overview
 https://user-images.githubusercontent.com/94627346/149811498-05070216-ecf8-46f3-893f-e1b924024f65.mp4
+
+
+<br />
 
 ## 🔥 What I learned from this project.. 
 ✅ **Firebase**: is a strong Backend-as-a-Service (Baas). It provides developers with a variety of tools and services to help them develop quality apps, grow their user base, and earn profit. This is my first experience of using firebase and very pleasing to see how easily make things work and deal with data. This is a small personal project so was a good chance to see how useful and powerful it can be to use firebase.
