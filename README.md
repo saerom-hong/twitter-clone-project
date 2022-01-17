@@ -1,8 +1,42 @@
-# Getting Started with Create React App
+# 🌐Twitter-Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple twitter clone application created on React.
 
-## Available Scripts
+### Users can 
+- log in with Google account or Github account.
+- create an account with email address and password.
+- post maximum 120 words or upload images on Home page.
+- delete or edit their tweets.
+- update their user name and profile picture on Profile page.
+<br>
+
+## 📽 Project Overview
+https://user-images.githubusercontent.com/94627346/149811498-05070216-ecf8-46f3-893f-e1b924024f65.mp4
+
+## 🔥 What I learned from this project.. 
+✅ **Firebase**: is a strong Backend-as-a-Service (Baas). It provides developers with a variety of tools and services to help them develop quality apps, grow their user base, and earn profit. This is my first experience of using firebase and very pleasing to see how easily make things work and deal with data. This is a small personal project so was a good chance to see how useful and powerful it can be to use firebase.
+I used Firebase Authentication to deal with the log-in process, Firestore Database to store tweets, Realtime Database to dynamically display tweets in real time, storage to upload images.
+
+✅ **The latest version of React Router**: in React Router v6, there are a few changes. for example, we don't use 'Switch' or 'useHistory' anymore and different ways of setting up Routes, etc.
+
+✅ **More Familiar with React**: every time I make projects with React(no matter it's simple and small or big project), I get more and more familiar with React! Creating real-world application helps me build my own programming experience and give me an eye for details of code, components structure. The most important thing is always fun to learn new skills and see my code work exactly how I intended in a browser!🙌
+
+## 🔧Technologies
+This project is created with: 
+```
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "firebase": "^9.6.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "styled-components": "^5.3.3",
+    "uuid": "^8.3.2"
+```
+
+## 🤖 Available Scripts
 
 In the project directory, you can run:
 
@@ -14,57 +48,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
