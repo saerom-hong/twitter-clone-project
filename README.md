@@ -17,12 +17,12 @@ https://user-images.githubusercontent.com/94627346/149811498-05070216-ecf8-46f3-
 <br />
 
 ## 🔥 What I learned from this project.. 
-✅ **Firebase**: is a strong Backend-as-a-Service (Baas). It provides developers with a variety of tools and services to help them develop quality apps, grow their user base, and earn profit. This is my first experience of using firebase and very pleasing to see how easily make things work and deal with data. This is a small personal project so was a good chance to see how useful and powerful it can be to use firebase.
-I used Firebase Authentication to deal with the log-in process, Firestore Database to store tweets, Realtime Database to dynamically display tweets in real time, storage to upload images.
+✅ **Firebase**: is a strong Backend-as-a-Service (Baas). It provides developers with a variety of tools and services to help them develop quality apps, grow their user base, and earn profit. This is my first experience of using firebase and it was very pleasing to see how easily it makes things work and deals with data. This is a small personal project so it was a good chance to see how useful and powerful it can be to use firebase.
+I used Firebase Authentication to deal with the log-in process, Firestore Database to store tweets, Realtime Database to dynamically display tweets in real time, and Storage to upload images.
 
-✅ **The latest version of React Router**: in React Router v6, there are a few changes. for example, we don't use 'Switch' or 'useHistory' anymore and different ways of setting up Routes, etc.
+✅ **The latest version of React Router**: in React Router v6, there are a few changes. For example, we don't use 'Switch' or 'useHistory' anymore and different ways of setting up Routes, etc.
 
-✅ **More Familiar with React**: every time I make projects with React(no matter it's simple and small or big project), I get more and more familiar with React! Creating real-world application helps me build my own programming experience and give me an eye for details of code, components structure. The most important thing is always fun to learn new skills and see my code work exactly how I intended in a browser!🙌
+✅ **More Familiar with React**: every time I make projects with React(no matter if it is a small and simple or a big project), I get more and more familiar with React! Creating real-world applications helps me build my own programming experience and gives me an eye for details of code and components structure. The most important thing is to always have fun learning new skills and see my code work exactly how I intended in a browser!🙌
 
 ## 🔧Technologies
 This project is created with: 
