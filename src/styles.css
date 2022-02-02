@@ -16,6 +16,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 14px;
   color: white;
+  height: 100%;
 }
 
 button {
@@ -46,7 +47,7 @@ form {
 
 .formInput {
   width: 100%;
-  padding: 10px 20px;
+  padding: 0 20px;
   border-radius: 20px;
   border: 1px solid black;
   text-align: center;
@@ -99,7 +100,7 @@ form {
   margin-left: 20px;
 }
 
-/* Nwitter Factory */
+/* twitter Factory */
 
 .factoryForm {
   display: flex;
@@ -174,7 +175,7 @@ form {
   font-size: 12px;
 }
 
-/* Nweet */
+/* tweet */
 
 .tweetEdit .formBtn {
   cursor: pointer;
