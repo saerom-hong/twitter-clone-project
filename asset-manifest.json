@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/twitter-clone-project/static/css/main.853c5cb4.css",
-    "main.js": "/twitter-clone-project/static/js/main.cd9d5a24.js",
+    "main.js": "/twitter-clone-project/static/js/main.2ec09272.js",
     "index.html": "/twitter-clone-project/index.html",
     "main.853c5cb4.css.map": "/twitter-clone-project/static/css/main.853c5cb4.css.map",
-    "main.cd9d5a24.js.map": "/twitter-clone-project/static/js/main.cd9d5a24.js.map"
+    "main.2ec09272.js.map": "/twitter-clone-project/static/js/main.2ec09272.js.map"
   },
   "entrypoints": [
     "static/css/main.853c5cb4.css",
-    "static/js/main.cd9d5a24.js"
+    "static/js/main.2ec09272.js"
   ]
 }
