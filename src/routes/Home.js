@@ -1,9 +1,6 @@
-import { useState } from "react";
-
 import { collection, orderBy, query, onSnapshot } from "firebase/firestore";
-
 import { db } from "../fBase";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Tweet from "../components/Tweet";
 import TweetFactory from "../components/TweetFactory";
 
