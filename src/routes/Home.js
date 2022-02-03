@@ -1,4 +1,4 @@
-import { useState } from "react/cjs/react.development";
+import { useState } from "react";
 
 import { collection, orderBy, query, onSnapshot } from "firebase/firestore";
 
