@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/twitter-clone-project/static/css/main.853c5cb4.css",
+    "main.js": "/github.io/twitter-clone-project/static/js/main.d877d072.js",
+    "index.html": "/github.io/twitter-clone-project/index.html",
+    "main.853c5cb4.css.map": "/github.io/twitter-clone-project/static/css/main.853c5cb4.css.map",
+    "main.d877d072.js.map": "/github.io/twitter-clone-project/static/js/main.d877d072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.853c5cb4.css",
+    "static/js/main.d877d072.js"
+  ]
+}
